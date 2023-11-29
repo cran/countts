@@ -1,0 +1,11 @@
+2bb6c466b41d58a621c5ab6973be5a20 *DESCRIPTION
+afdadd6caf879ca01b8a8a8102931ee2 *NAMESPACE
+475911e3f73da252dbdd083dc4d0e21a *R/count_ts.R
+7aab92b3a848dffa58c8cb8212b8b296 *R/globals.R
+b8b6ff05a2adcd77e21296b9a7f47649 *man/apply_ZINB.Rd
+a6d3f52bd8458731856be5c40cdf439e *man/apply_ZIP.Rd
+9814f7c36ac959304af31cba0394a878 *man/apply_laplacePoisson.Rd
+77891a25a8e99bbe6a1b5773c1a1040c *man/apply_linearTS.Rd
+4517e4b5e46e8d2819f2a6ad91990c9c *man/apply_normalNB.Rd
+653f4d61e33895434daca4a04c9e7193 *man/output_summary.Rd
+b5d1946bb4bf28cd2469804a8d0519cc *man/update_algorithm.Rd
